@@ -3,6 +3,7 @@ A full stack web app with amazing capabilities built from scratch. Used Express,
 
 
 ### Deployed link ( Heroku: Live Database )
-https://stormy-headland-36860.herokuapp.com/campgrounds/5b8ae37600934e32dbdefa1d
+https://stormy-headland-36860.herokuapp.com/
 
-#### Game: Please attempt to break it and open an issue if interested. I'll fix it. XD
+
+#### Please attempt to break it and open an issue if interested. I'll fix it.
